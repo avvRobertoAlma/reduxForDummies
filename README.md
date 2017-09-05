@@ -95,7 +95,7 @@ Ad esempio:
 
 ```javascript
 store.dispatch({type: 'TODO_ADD', 
-payload: {id:4, name: 'redux dispatch, isComplete: false}})
+payload: {id:4, name: 'redux dispatch', isComplete: false}})
 ```
 
 #### Utilizzare gli *Action creators*
